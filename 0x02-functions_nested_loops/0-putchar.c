@@ -7,10 +7,15 @@
  */
 int main(void)
 {
-char c = '_putchar\n'
-_putchar(c[0])
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+Return (0);
 
-
-_putchar(c[8])
-return (0);
 }
