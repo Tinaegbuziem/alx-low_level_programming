@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * is written by bwave
+ * main - print _putchar(char c)
+ * is written by tina
  * Return: 0
  */
 
